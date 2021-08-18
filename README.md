@@ -94,7 +94,7 @@ function showTabsContent(b) {
 }
 ```
 
-# Ползунок на JS (RU)
+# Вкладки на JS (RU)
 
 Создание вкладок на языке JavaScript.
 
